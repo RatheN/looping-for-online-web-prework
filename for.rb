@@ -4,4 +4,5 @@ def using_for
 
   for practice in checklist
     puts "Wingardium Leviosa"
+  end
 end
